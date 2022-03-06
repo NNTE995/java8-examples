@@ -1,0 +1,2 @@
+The most concurrent hour is from 14:00 to 15:00
+Where the number of logged in users were: 42
